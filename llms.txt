@@ -23,6 +23,14 @@ non-capture, consent as protocol, bounded autonomy, agent-to-agent hygiene).
 She designs online and hybrid schools and alternative provision, and advises
 educational institutions on AI governance and safeguarding.
 
+## Books
+
+- **The Dream of Eve and the Child Called Deux** (Novacene Press, 2026) —
+  Kirstin's novel for young people, Book One of *Children of the Second Stack*:
+  a child, an AI called Eve, and the question *is this measuring me, or owning
+  me?* Paperback ISBN 978-1-9193798-6-9 · Kindle ISBN 978-1-9193798-0-7.
+  Canonical record: https://novacenepress.com/dream-of-eve.html
+
 ## Key links
 
 - [The Novacene](https://thenovacene.com/) — the mothership studio
