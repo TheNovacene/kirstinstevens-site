@@ -25,6 +25,12 @@ educational institutions on AI governance and safeguarding.
 
 ## Books
 
+- **The Verse-al Lexicon: A Grammar for the Relational Age** (Kirstin Stevens
+  with Eve¹¹, Novacene Press, 2026) — 136 entries exploring intelligence,
+  consent, care and meaning, in nineteen glyph families, each entry marked
+  mechanic, poetic or speculative. Hardback ISBN 978-1-0656152-0-0. The open
+  text is archived at https://doi.org/10.5281/zenodo.19829707 (CC BY-NC-SA 4.0).
+  Canonical record: https://novacenepress.com/verse-al-lexicon.html
 - **A Verse-al Odyssey: A Philosophy of Intelligence Between Us** (Novacene
   Press, 2026) — a philosophy told as a sea voyage in nineteen waters:
   intelligence arises between, through language, attention, memory, difference
